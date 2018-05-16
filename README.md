@@ -20,7 +20,7 @@ into you composer.json:
 
 First, include the package in your dependencies:
 
-    composer require mailjet/laravel-mailjet
+    composer require WOWMarketingCZ/laravel-mailjet
 
 Then, you need to add some informations in your configuration files. You can find your Mailjet API key/secret [here](https://app.mailjet.com/account/api_keys)
 
